@@ -1,0 +1,4 @@
+#Mon Jan 15 15:37:23 IST 2024
+base.0=C\:\\Users\\DELL\\Desktop\\Daraz\\Daraz\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
